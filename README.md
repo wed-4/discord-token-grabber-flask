@@ -1,3 +1,6 @@
+
+
+
 # discord-token-grabber-flask
 作りかけ
 
@@ -12,3 +15,7 @@ repl.itを使用した。
 ## 主要な使用ライブラリ
 
 flask
+
+## 開発者
+
+新BTS嫌い人民共和国技術部
